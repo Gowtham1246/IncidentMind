@@ -1,0 +1,11 @@
+{
+  "name": "incidentmind-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "IncidentMind — AI Incident Commander with Hindsight Memory",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix frontend run start"
+  }
+}
